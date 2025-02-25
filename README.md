@@ -13,7 +13,6 @@
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
   <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
 </picture>
-<br />
 
 <h3 align="left">Key Focus</h3>
 <ul align="left">
