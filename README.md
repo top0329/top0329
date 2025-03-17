@@ -512,7 +512,7 @@ class About extends Me {
 <div align='center' width='100%'>
   <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=top0329&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   <a width='50%' href="https://github.com/top0329?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=top0329&theme=onestar&no-frame=true&column=5&row=2"  height="250px" alt="@top0329's trophy stats"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=top0329&theme=onestar&no-frame=true&column=4&row=2"  height="250px" alt="@top0329's trophy stats"/>
   </a>
 </div>
 
