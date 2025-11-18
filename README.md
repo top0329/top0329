@@ -38,7 +38,7 @@
 </strong></p>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=top0329&style=flat&color=orange&label=PROFILE+VIEWS)
-[![telegram badge](https://img.shields.io/badge/TOP-grey?style=flat&logo=telegram)](https://t.me/top_329) <br>
+
 </div>
 
 <hr></hr>
